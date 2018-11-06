@@ -7,3 +7,5 @@ Java
 HTML
 
 CSS
+PHP
+Python
