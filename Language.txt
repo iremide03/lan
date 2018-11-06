@@ -5,6 +5,8 @@ Welcome to lanre Programming School
 Java
 
 HTML
+XML
+Laravel
 
 CSS
 PHP
